@@ -13,7 +13,7 @@ dcm4chee
 
 orthanc
 -------
-* License: GPLv3 (Open Source)
+* License: AGPLv3 (Open Source)
 * Version:
 * Last Updated: April 10, 2015
 * Status: Alpha
